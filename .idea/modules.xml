@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basketball/basketball.iml" filepath="$PROJECT_DIR$/basketball/basketball.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cinemamessages/cinema.iml" filepath="$PROJECT_DIR$/cinemamessages/cinema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fundamentals.iml" filepath="$PROJECT_DIR$/.idea/fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/properties/properties.iml" filepath="$PROJECT_DIR$/properties/properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflectionweek3/reflection.iml" filepath="$PROJECT_DIR$/reflectionweek3/reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/rockpaper.iml" filepath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/rockpaper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yaml/yaml.iml" filepath="$PROJECT_DIR$/yaml/yaml.iml" />
+    </modules>
+  </component>
+</project>

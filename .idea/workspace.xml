@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe5ca296-54a8-4695-8af1-9dfa42012894" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/controller/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/controller/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/controller/Judge.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/controller/Judge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Lizard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Move.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Paper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Rock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Scissors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Spock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/test/java/at/nacs/rockpaper/controller/JudgeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/test/java/at/nacs/rockpaper/controller/JudgeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/test/java/at/nacs/rockpaper/model/ScissorsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/test/java/at/nacs/rockpaper/model/ScissorsTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/properties/target/" />
+    <ignored path="$PROJECT_DIR$/yaml/target/" />
+    <ignored path="$PROJECT_DIR$/basketball/target/" />
+    <ignored path="$PROJECT_DIR$/cinemamessages/target/" />
+    <ignored path="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/target/" />
+    <ignored path="$PROJECT_DIR$/reflectionweek3/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/configuration/MovesConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reflectionweek3/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reflectionweek3/src/test/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reflectionweek3/src/test/java/at/nacs/reflection/ReflectionApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/logic/ConvertNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reflectionweek3/src/test/java/at/nacs/reflection/logic/ConvertNumberTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/logic/Transformer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reflectionweek3/src/test/java/at/nacs/reflection/logic/TransformerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/GameConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#485#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/properties/src/test/java/at/nacs/fundementals2/BallerinasTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/sharife/BackEndModul" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/yaml/src/test/java/at/nacs/yaml/BallerinasTest.java" />
+        <option value="$PROJECT_DIR$/yaml/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/yaml/src/main/java/at/nacs/yaml/DaysOfWeek.java" />
+        <option value="$PROJECT_DIR$/yaml/src/main/java/at/nacs/yaml/Fantastic.java" />
+        <option value="$PROJECT_DIR$/yaml/src/main/java/at/nacs/yaml/SomeNumber.java" />
+        <option value="$PROJECT_DIR$/yaml/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/yaml/src/test/resources/application.yml" />
+        <option value="$PROJECT_DIR$/basketball/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/BasketballTeam.java" />
+        <option value="$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/BasketballConfigration.java" />
+        <option value="$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/BasketballTeams.java" />
+        <option value="$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/Court.java" />
+        <option value="$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/BasketballConfiguration.java" />
+        <option value="$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/Screen.java" />
+        <option value="$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/BasketballTournament.java" />
+        <option value="$PROJECT_DIR$/cinemamessages/src/main/java/at/nacs/cinema/CustomerLoader.java" />
+        <option value="$PROJECT_DIR$/cinemamessages/src/test/java/at/nacs/cinema/CustomerLoaderTest.java" />
+        <option value="$PROJECT_DIR$/cinemamessages/src/main/java/at/nacs/cinema/InsertName.java" />
+        <option value="$PROJECT_DIR$/cinemamessages/src/main/java/at/nacs/cinema/TeplatesLoader.java" />
+        <option value="$PROJECT_DIR$/cinemamessages/src/main/java/at/nacs/cinema/TemplatesLoader.java" />
+        <option value="$PROJECT_DIR$/cinemamessages/src/main/java/at/nacs/cinema/Template.java" />
+        <option value="$PROJECT_DIR$/cinemamessages/src/test/java/at/nacs/cinema/TemplatesLoaderTest.java" />
+        <option value="$PROJECT_DIR$/cinemamessages/src/main/java/at/nacs/cinema/TemplateEngine.java" />
+        <option value="$PROJECT_DIR$/cinemamessages/src/main/java/at/nacs/cinema/TextMessageSender.java" />
+        <option value="$PROJECT_DIR$/cinemamessages/src/main/java/at/nacs/cinema/CinemaMessageSender.java" />
+        <option value="$PROJECT_DIR$/cinemamessages/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Move.java" />
+        <option value="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/test/java/at/nacs/rockpaper/model/ScissorsTest.java" />
+        <option value="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/test/java/at/nacs/rockpaper/controller/JudgeTest.java" />
+        <option value="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Computer.java" />
+        <option value="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/GameConfiguration.java" />
+        <option value="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/controller/Game.java" />
+        <option value="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/movesLoader.java" />
+        <option value="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Human.java" />
+        <option value="$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/controller/Judge.java" />
+        <option value="$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/GameConfegiration.java" />
+        <option value="$PROJECT_DIR$/reflectionweek3/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/MovesLoader.java" />
+        <option value="$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/ConvertNumber.java" />
+        <option value="$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/Transformer.java" />
+        <option value="$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/ReflectionApplication.java" />
+        <option value="$PROJECT_DIR$/reflectionweek3/src/test/java/at/nacs/reflection/domain/MovesLoaderTest.java" />
+        <option value="$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/domain/MovesLoader.java" />
+        <option value="$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/domain/MovesConfiguration.java" />
+        <option value="$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/configuration/MovesConfiguration.java" />
+        <option value="$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/GameConfiguration.java" />
+        <option value="$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/logic/ConvertNumber.java" />
+        <option value="$PROJECT_DIR$/reflectionweek3/src/test/java/at/nacs/reflection/logic/ConvertNumberTest.java" />
+        <option value="$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/logic/Transformer.java" />
+        <option value="$PROJECT_DIR$/reflectionweek3/src/test/java/at/nacs/reflection/logic/TransformerTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="1843" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="reflectionweek3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="fundamentals" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="fundamentals" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552048461292" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="at.nacs.reflection.logic" />
+      <recent name="at.nacs.reflection.domain" />
+      <recent name="at.nacs.cinema" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="at.nacs.cinema" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/reflectionweek3/src/test/resources" />
+      <recent name="$PROJECT_DIR$/yaml/src/test/resources" />
+      <recent name="$PROJECT_DIR$/yaml/src/test/java/at/nacs/yaml" />
+      <recent name="$PROJECT_DIR$/yaml/src/main/java/at/nacs/yaml" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TransformerTest.testNoMoves">
+    <configuration name="ConvertNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.nacs.reflection.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.nacs.reflection.logic" />
+      <option name="MAIN_CLASS_NAME" value="at.nacs.reflection.logic.ConvertNumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovesConfigurationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.nacs.reflection.configuration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.nacs.reflection.configuration" />
+      <option name="MAIN_CLASS_NAME" value="at.nacs.reflection.configuration.MovesConfigurationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransformerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.nacs.reflection.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.nacs.reflection.logic" />
+      <option name="MAIN_CLASS_NAME" value="at.nacs.reflection.logic.TransformerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransformerTest.testNoMoves" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.nacs.reflection.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.nacs.reflection.logic" />
+      <option name="MAIN_CLASS_NAME" value="at.nacs.reflection.logic.TransformerTest" />
+      <option name="METHOD_NAME" value="testNoMoves" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="at.nacs.rockpaper in rockpaper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rockpaper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.nacs.rockpaper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.nacs.rockpaper" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CinemaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cinema" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.cinema.CinemaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="reflection" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.reflection.ReflectionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RockpaperApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rockpaper" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.rockpaper.RockpaperApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YamlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="yaml" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.yaml.YamlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TransformerTest.testNoMoves" />
+        <item itemvalue="JUnit.TransformerTest" />
+        <item itemvalue="JUnit.ConvertNumberTest" />
+        <item itemvalue="JUnit.MovesConfigurationTest" />
+        <item itemvalue="JUnit.at.nacs.rockpaper in rockpaper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe5ca296-54a8-4695-8af1-9dfa42012894" name="Default Changelist" comment="" />
+      <created>1551860524621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551860524621</updated>
+      <workItem from="1551860533153" duration="194000" />
+      <workItem from="1551860740870" duration="10728000" />
+      <workItem from="1551884566234" duration="21834000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ConvertNumberTest - 2019.03.08 at 11h 20m 48s.xml">
+      <configuration name="ConvertNumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransformerTest - 2019.03.08 at 11h 33m 03s.xml">
+      <configuration name="TransformerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransformerTest - 2019.03.08 at 11h 38m 00s.xml">
+      <configuration name="TransformerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransformerTest - 2019.03.08 at 11h 38m 28s.xml">
+      <configuration name="TransformerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransformerTest - 2019.03.08 at 11h 38m 58s.xml">
+      <configuration name="TransformerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransformerTest - 2019.03.08 at 11h 40m 58s.xml">
+      <configuration name="TransformerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransformerTest - 2019.03.08 at 11h 41m 30s.xml">
+      <configuration name="TransformerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransformerTest - 2019.03.08 at 11h 43m 58s.xml">
+      <configuration name="TransformerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransformerTest - 2019.03.08 at 11h 46m 20s.xml">
+      <configuration name="TransformerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransformerTest_testNoMoves - 2019.03.08 at 11h 48m 52s.xml">
+      <configuration name="TransformerTest.testNoMoves" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32756000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25510767" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32972974" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32972974" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/yaml/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yaml/src/test/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/BasketballApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/Court.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/Screen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/BasketballTournament.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="80" selection-start-line="18" selection-start-column="80" selection-end-line="18" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/BasketballTeam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/BasketballTeams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basketball/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="18" lean-forward="true" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cinemamessages/src/main/java/at/nacs/cinema/CustomerLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cinemamessages/src/main/java/at/nacs/cinema/Template.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cinemamessages/src/main/java/at/nacs/cinema/InsertName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="56" selection-start-line="4" selection-start-column="10" selection-end-line="9" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cinemamessages/src/main/java/at/nacs/cinema/TemplatesLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cinemamessages/src/main/java/at/nacs/cinema/TemplateEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cinemamessages/src/main/java/at/nacs/cinema/TextMessageSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cinemamessages/src/main/java/at/nacs/cinema/CinemaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cinemamessages/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Paper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Rock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Scissors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Lizard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Spock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cinemamessages/src/main/java/at/nacs/cinema/CinemaMessageSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/test/java/at/nacs/rockpaper/model/ScissorsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-start-column="2" selection-end-line="21" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#555#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/test/java/at/nacs/rockpaper/controller/JudgeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-start-column="2" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#1597#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/RockpaperApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/GameConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Move.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/movesLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basketball/src/main/java/at/basketball/basketball/BasketballConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/controller/Judge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/controller/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharife/BackEndModul/BackEndW2/rockpaper/src/main/java/at/nacs/rockpaper/model/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basketball/src/test/java/at/basketball/basketball/BasketballApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cinemamessages/src/test/java/at/nacs/cinema/CustomerLoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cinemamessages/src/test/java/at/nacs/cinema/TemplatesLoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/ReflectionApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflectionweek3/src/test/java/at/nacs/reflection/configuration/MovesConfigurationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/configuration/MovesConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflectionweek3/src/test/java/at/nacs/reflection/ReflectionApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/logic/ConvertNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflectionweek3/src/test/java/at/nacs/reflection/logic/ConvertNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/logic/Transformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflectionweek3/src/test/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/properties/src/test/java/at/nacs/fundementals2/BallerinasTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflectionweek3/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflectionweek3/src/test/java/at/nacs/reflection/logic/TransformerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflectionweek3/src/main/java/at/nacs/reflection/GameConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#485#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>basketball</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
