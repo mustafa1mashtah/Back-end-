@@ -2,6 +2,8 @@ package at.nacs.morse;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.params.ParameterizedTest;
+import org.junit.jupiter.params.provider.CsvSource;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.web.client.TestRestTemplate;
@@ -15,11 +17,15 @@ class MorseEndpointTest {
 
     String url = "/morse";
 
-    @Test
-    void encode() {
-        String actual = testRestTemplate.postForObject(url, "m", String.class);
-        String expected = "--";
-
+    @ParameterizedTest
+    @CsvSource({
+            "B,-...",
+            "C,-.-.",
+            "9,----.",
+            "/,NOT SUPPORTED"
+    })
+    void encode(String letter,String expected) {
+        String actual = testRestTemplate.postForObject(url, letter, String.class);
         Assertions.assertThat(actual).isEqualTo(expected);
     }
 }
